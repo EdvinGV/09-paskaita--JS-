@@ -1,0 +1,16 @@
+{
+  "name": "09-paskaita-(js)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "Edvinas <edvingvozdovic@gmail.com> (https://github.com/EdvinGV)",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
